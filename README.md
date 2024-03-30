@@ -14,7 +14,7 @@ This is a web application built using HTML, BootStrap and Vanilla JavaScript and
 
 # Usage
 ## Home Page
-On the home page, you can search for meals by typing in the search bar. As you type, the search results will update dynamically. Each search result has a "Favorite" button that allows user to add the meal to your list of favorite meals. Clicking on Recipe will take you to the meal details page.
+On the home page, you can search for meals by typing in the search bar. As you type, the search results will update dynamically. Each search result has a "Favorite" button that allows user to add the meal to your list of favorite meals Clicking on Recipe will take you to the meal details page.
 
 ## Meal Detail Page
 The meal detail page displays information about a specific meal, including its name, photo, instructions, and other details.
