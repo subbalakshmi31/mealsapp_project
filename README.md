@@ -1,5 +1,6 @@
 # Meal App
-This is a web application built using HTML, BootStrap and Vanilla JavaScript and the TheMealDB API which allows users to search and save their favorite meals.
+* This is a web application built using HTML, BootStrap and Vanilla JavaScript and the TheMealDB API which allows users to search and save their favorite meals.
+* The link to the final hosted webpage is : https://subbalakshmi31.github.io/mealsapp_project/
 
 ## Features
 * Search for meals and corresponding search results will be displayed
